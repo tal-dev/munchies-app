@@ -1,6 +1,6 @@
 # Munchies
 
-A restaurant discovery app built for Eidra's take-home assessment.
+A restaurant discovery app.
 
 ## Stack
 
@@ -17,7 +17,7 @@ The app uses Next.js API routes as a proxy layer between the frontend and the ex
 - **Graceful degradation** - serves stale cache if external API fails
 - **Simple error handling** with user-friendly messages
 
-The frontend is mobile-first with a responsive desktop layout featuring a sidebar with filters.
+The frontend is mobile-first with a responsive desktop layout.
 
 ## Running Locally
 
